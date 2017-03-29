@@ -1,4 +1,4 @@
 # qml-svg-color
 
-自定义的一个qml svg组件
-组件可以动态更改svg颜色
+鑷畾涔夌殑涓�涓猶ml svg缁勪欢
+缁勪欢鍙互鍔ㄦ�佹洿鏀箂vg棰滆壊
